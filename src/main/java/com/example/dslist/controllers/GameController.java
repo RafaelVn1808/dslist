@@ -1,7 +1,7 @@
 package com.example.dslist.controllers;
 
 import com.example.dslist.dto.GameminDTO;
-import com.example.dslist.entities.Game;
+
 
 import com.example.dslist.services.GameService;
 import org.springframework.beans.factory.annotation.Autowired;
